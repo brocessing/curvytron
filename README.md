@@ -20,3 +20,9 @@ A web multiplayer Tron game like with curves
 
 * [Configuration reference](doc/configuration.md)
 * [Setup Nginx proxy](doc/nginx-proxy.md)
+
+## Ideas
+
+- A **team vs team** mode
+
+
